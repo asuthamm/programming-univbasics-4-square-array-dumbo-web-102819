@@ -1,3 +1,5 @@
 def square_array(array)
-  counter=log10
+  counter=0 
+  while counter < array.length 
+  
 end
